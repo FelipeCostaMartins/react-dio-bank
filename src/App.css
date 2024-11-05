@@ -1,0 +1,11 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.bg-interface{
+  height: 100vh;
+  padding: 20px;
+  background-color: rgb(24, 41, 50);
+}
